@@ -5,8 +5,7 @@ Data Structure & Algorithm (CSGE602040)
 Welcome to this code repository.
 This is my Lab Assignment for Data Structure & Algorithm Course.
 Feel free to use it. :)
-
-Note: Only Friday lab assignments which has been graded.
+**Note: Only Friday lab assignments which has been graded.**
 
 1. **Lab 1:**
 	- Problem 1: 100
