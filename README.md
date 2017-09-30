@@ -14,7 +14,8 @@ Feel free to use it. :)
 	- Problem 1: 100
 	- Problem 2: 90 (**Time Limit Exceeded** at 10th test case)
 3. **Lab 3:**
-	TBA
+	- Problem 1: 100
+	- Problem 2: 100
 4. **Lab 4:**
 	TBA
 5. **Lab 5:**
